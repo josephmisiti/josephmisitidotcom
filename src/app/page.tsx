@@ -15,9 +15,9 @@ export default function Home() {
           (ios/python/ml)
         </p>
         <p>
-          i’m a full-stack software engineer + data scientist living in the{" "}
-          <a href="https://en.wikipedia.org/wiki/Lower_East_Side">
-            lower east side, nyc
+          i’m a full-stack software engineer + data scientist living in{" "}
+          <a href="https://en.wikipedia.org/wiki/Miami,_Florida">
+            miami, florida
           </a>
         </p>
         <p>
@@ -72,11 +72,17 @@ export default function Home() {
           , <a href="#">traveling</a>, <a href="#">restaurants</a>,{" "}
           <a href="#">cooking</a>, <a href="#">alcohol</a>,{" "}
           <a href="#">running</a>,{" "}
-          <a href="https://en.wikipedia.org/wiki/Montepulciano_d%27Abruzzo">
-            red wine(montepulciano)
+          <a href="https://www.wineterroirs.com/2010/08/dard_et_ribo.html">
+            syrah (dard et ribo)
           </a>
-          , <a href="http://www.altavistawines.com/">white wine (torrontes)</a>,{" "}
-          <a href="http://casamigostequila.com/">casamigos blanco</a>,
+          ,{" "}
+          <a href="https://www.youtube.com/watch?v=bntz_xnJ1UQ">
+            poulsard (domaine cavarodes)
+          </a>
+          ,{" "}
+          <a href="https://www.youtube.com/watch?v=EbG6OEQ54PQ&t=327s">
+            macerated blends (domaine matassa)
+          </a>
         </p>
         <p>
           i keep track of what i’m reading{" "}
