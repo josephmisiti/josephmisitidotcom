@@ -7,7 +7,11 @@ export default function Home() {
       <main className={styles.main}>
         <h1>hi i’m joe.</h1>
         <p>
-          i’m currently running{" "}
+          i’m currently co-founder{" "}
+          <a href="http://www.pingintel.com/">ping intel</a>
+        </p>
+        <p>
+          previously, i was the co-founder of{" "}
           <a href="http://www.mathandpencil.com/">math & pencil</a>, a boutique
           full-stack software and data science consultancy. I have been running
           it since 2011, and am not looking for full-time employment (unless you
@@ -111,7 +115,7 @@ export default function Home() {
           </a>{" "}
           is a list what i read this year
         </p>
-        <p>i do not use facebook</p>
+        <p>all facebook products are for assholes.</p>
         <p className={styles.italic}>
           if you need any data help, ios help, backend help, or have a good book
           recommendation, please contact me at{" "}
