@@ -7,8 +7,10 @@ export default function Home() {
       <main className={styles.main}>
         <h1>hi i’m joe.</h1>
         <p>
-          i’m currently co-founder{" "}
-          <a href="http://www.pingintel.com/">ping intel</a>
+          i’m currently the co-founder{" "}
+          <a href="http://www.pingintel.com/?referer=josephmisiti.com">
+            ping intel.
+          </a>
         </p>
         <p>
           previously, i was the co-founder of{" "}
@@ -123,7 +125,7 @@ export default function Home() {
       </main>
       <footer className={styles.footer}>
         <a
-          href="http://www.mathandpencil.com/"
+          href="http://www.pingintel.com/?referer=josephmisiti.com"
           target="_blank"
           rel="noopener noreferrer"
         >
