@@ -13,10 +13,7 @@ export default function Home() {
         <p>
           previously, i was the co-founder of{" "}
           <a href="http://www.mathandpencil.com/">math & pencil</a>, a boutique
-          full-stack software and data science consultancy. I have been running
-          it since 2011, and am not looking for full-time employment (unless you
-          can convince me to quit of course). reach out if you need any help
-          (ios/python/ml)
+          full-stack software and data science consultancy.
         </p>
         <p>
           i’m a full-stack software engineer + data scientist living in{" "}
